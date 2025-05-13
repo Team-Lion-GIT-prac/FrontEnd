@@ -1,12 +1,18 @@
-import React from 'react';
-import ProfileCard from './ProfileCard';
-import './ProfileList.css';
-import star from '../assets/shootingstar.jpg'
+import React from "react";
+import ProfileCard from "./ProfileCard";
+import "./ProfileList.css";
+import star from "../assets/shootingstar.jpg";
+import tomato from "../assets/토마토.jpg";
 
 const profiles = [
   {
-    name: '유성',
-    bio: 'AI에 부쩍 관심이 생긴 개발자 입니다. :D',
+    name: "은우",
+    bio: "멋쟁이 은우입니다",
+    image: tomato,
+  },
+  {
+    name: "유성",
+    bio: "AI에 부쩍 관심이 생긴 개발자 입니다. :D",
     image: star,
   },
 ];
