@@ -7,7 +7,7 @@ import cloud from '../assets/cloud.jpg'
 const profiles = [
   {
     name: '서현',
-    bio: '‧˚₊*̥(* ⁰̷̴͈꒳⁰̷̴͈ )‧˚₊*̥.',
+    bio: '반갑습니다 ‧˚₊*̥(* ⁰̷̴͈꒳⁰̷̴͈ )‧˚₊*̥',
     image: cloud,
   },
   {
