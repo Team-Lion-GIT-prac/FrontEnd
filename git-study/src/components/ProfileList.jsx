@@ -2,19 +2,21 @@ import React from 'react';
 import ProfileCard from './ProfileCard';
 import './ProfileList.css';
 import star from '../assets/shootingstar.jpg'
-
+import cloud from '../assets/cloud.jpg'
 import lion from '../assets/babylion.jpg'
+import dog from '../assets/멍멍.png'
 
 const profiles = [
+  {
+    name: '서현',
+    bio: '반갑습니다 ‧˚₊*̥(* ⁰̷̴͈꒳⁰̷̴͈ )‧˚₊*̥',
+    image: cloud,
+  },
   {
     name: '유진',
     bio: '개발만 못하는 개발자 입니다!.',
     image: lion,
-
-import dog from '../assets/멍멍.png'
-
-
-const profiles = [
+  },
   {
     name: '윤서',
     bio: '안녕하세용 최윤서입니다.^^.',
