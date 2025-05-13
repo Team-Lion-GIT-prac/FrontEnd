@@ -8,7 +8,7 @@ import dog from '../assets/멍멍.png'
 const profiles = [
   {
     name: '윤서',
-    bio: '안녕하세용 최윤서입니다.^^',
+    bio: '안녕하세용 최윤서입니다.^^.',
     image: dog,
   },
   {
