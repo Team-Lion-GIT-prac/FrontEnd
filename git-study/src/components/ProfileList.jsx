@@ -7,7 +7,7 @@ import lion from '../assets/babylion.jpg'
 const profiles = [
   {
     name: '유진',
-    bio: '개발만 못하는 개발자 입니다! ',
+    bio: '개발만 못하는 개발자 입니다!.',
     image: lion,
   },
   {
