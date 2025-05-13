@@ -9,6 +9,15 @@ const profiles = [
     name: '서현',
     bio: '반갑습니다 ‧˚₊*̥(* ⁰̷̴͈꒳⁰̷̴͈ )‧˚₊*̥',
     image: cloud,
+
+import dog from '../assets/멍멍.png'
+
+
+const profiles = [
+  {
+    name: '윤서',
+    bio: '안녕하세용 최윤서입니다.^^.',
+    image: dog,
   },
   {
     name: '유성',
