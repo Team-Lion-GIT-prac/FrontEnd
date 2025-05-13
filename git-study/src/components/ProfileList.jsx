@@ -9,6 +9,16 @@ const profiles = [
     name: '채윤',
     bio: '흠.',
     image: cat,
+
+import star from '../assets/shootingstar.jpg'
+import dog from '../assets/멍멍.png'
+
+
+const profiles = [
+  {
+    name: '윤서',
+    bio: '안녕하세용 최윤서입니다.^^.',
+    image: dog,
   },
   {
     name: '유성',
