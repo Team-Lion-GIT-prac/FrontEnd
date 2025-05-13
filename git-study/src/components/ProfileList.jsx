@@ -5,8 +5,14 @@ import star from '../assets/shootingstar.jpg'
 import cloud from '../assets/cloud.jpg'
 import lion from '../assets/babylion.jpg'
 import dog from '../assets/멍멍.png'
+import tomato from "../assets/토마토.jpg";
 
 const profiles = [
+    {
+    name: "은우",
+    bio: "멋쟁이 은우입니다!!!!!!!!!!",
+    image: tomato,
+  },
   {
     name: '서현',
     bio: '반갑습니다 ‧˚₊*̥(* ⁰̷̴͈꒳⁰̷̴͈ )‧˚₊*̥',
