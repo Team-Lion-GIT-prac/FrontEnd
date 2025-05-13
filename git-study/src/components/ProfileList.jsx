@@ -1,12 +1,13 @@
 import React from 'react';
 import ProfileCard from './ProfileCard';
 import './ProfileList.css';
-import star from '../assets/shootingstar.jpg'
-import cat from '../assets/bongbong.jpg'
+import star from '../assets/shootingstar.jpg';
+import cat from '../assets/bongbong.jpg';
 
-const profiles = [ {
+const profiles = [
+  {
     name: '채윤',
-    bio: '흠',
+    bio: '흠.',
     image: cat,
   },
   {
