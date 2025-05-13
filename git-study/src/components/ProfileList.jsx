@@ -7,7 +7,7 @@ import tomato from "../assets/토마토.jpg";
 const profiles = [
   {
     name: "은우",
-    bio: "멋쟁이 은우입니다",
+    bio: "멋쟁이 은우입니다!!!!!!!!!!",
     image: tomato,
   },
   {
