@@ -1,6 +1,15 @@
 import React from 'react';
 import ProfileCard from './ProfileCard';
 import './ProfileList.css';
+import star from '../assets/shootingstar.jpg';
+import cat from '../assets/bongbong.jpg';
+
+const profiles = [
+  {
+    name: '채윤',
+    bio: '흠.',
+    image: cat,
+
 import star from '../assets/shootingstar.jpg'
 import cloud from '../assets/cloud.jpg'
 import lion from '../assets/babylion.jpg'
